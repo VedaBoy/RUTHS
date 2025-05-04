@@ -7,7 +7,7 @@ const appetizers: MenuItem[] = [
     name: 'Toast Bread/Grill Bread ',
     description: 'Butter/Jam',
     price: 149,
-    image: 'src/images/Food/AllDayBreakfast/grilled bread.jpg',
+    image: '/RUTHS/images/Food/AllDayBreakfast/grilled bread.jpg',
     category: 'All Day Breakfast',
     section: 'food'
   },
@@ -16,7 +16,7 @@ const appetizers: MenuItem[] = [
     name: 'Omelets',
     description: 'Plain/Cheese/Spanish',
     price: 169,
-    image: 'src/images/Food/AllDayBreakfast/Omelette.jpg',
+    image: '/RUTHS/images/Food/AllDayBreakfast/Omelette.jpg',
     category: 'All Day Breakfast',
     section: 'food'
   },
@@ -25,7 +25,7 @@ const appetizers: MenuItem[] = [
     name: 'Types of Eggs',
     description: 'Sunnyside/Fried/Scrambled',
     price: 169,
-    image: 'src/images/Food/AllDayBreakfast/Types of eggs.jpg',
+    image: '/RUTHS/images/Food/AllDayBreakfast/Types of eggs.jpg',
     category: 'All Day Breakfast',
     section: 'food'
   },
@@ -34,7 +34,7 @@ const appetizers: MenuItem[] = [
     name: 'Jonny English',
     description: 'Grilled Tomato, Chicken Sausage, Potato Wedges, Bread Toast',
     price: 299,
-    image: 'src/images/Food/AllDayBreakfast/jhonnyenglish.jpg',
+    image: '/RUTHS/images/Food/AllDayBreakfast/jhonnyenglish.jpg',
     category: 'All Day Breakfast',
     section: 'food'
   }
@@ -46,7 +46,7 @@ const meatAndPoultry: MenuItem[] = [
     name: 'Potato Hash Brown',
     description: 'Crispy golden potato hash browns, Crunchy on the outside, Soft inside',
     price: 289,
-    image: 'src/images/Food/QuickBites/potato hash.jpg',
+    image: '/RUTHS/images/Food/QuickBites/potato hash.jpg',
     category: 'Quick Bites',
     section: 'food'
   },
@@ -55,7 +55,7 @@ const meatAndPoultry: MenuItem[] = [
     name: 'French Fries',
     description: 'Classic Cripy Fries, Lightly salted and served hot',
     price: 199,
-    image: 'src/images/Food/QuickBites/frenchfries.jpg',
+    image: '/RUTHS/images/Food/QuickBites/frenchfries.jpg',
     category: 'Quick Bites',
     section: 'food'
   },
@@ -64,7 +64,7 @@ const meatAndPoultry: MenuItem[] = [
     name: 'Potato Wedges',
     description: 'Thick-cut potato wedges with a crispy crust and soft inside',
     price: 199,
-    image: 'src/images/Food/QuickBites/potatowedges.jpg',
+    image: '/RUTHS/images/Food/QuickBites/potatowedges.jpg',
     category: 'Quick Bites',
     section: 'food'
   },
@@ -73,7 +73,7 @@ const meatAndPoultry: MenuItem[] = [
     name: 'Veg Nuggets',
     description: 'Crunchy vegetable nuggets with a flavorful filling',
     price: 209,
-    image: 'src/images/Food/QuickBites/vegetablenuggets.jpg',
+    image: '/RUTHS/images/Food/QuickBites/vegetablenuggets.jpg',
     category: 'Quick Bites',
     section: 'food'
   },
@@ -82,7 +82,7 @@ const meatAndPoultry: MenuItem[] = [
     name: 'Paneer Cheese Balls',
     description: 'Crispy panner bites with a chessy center',
     price: 199,
-    image: 'src/images/Food/QuickBites/paneerchesseballs.jpg' ,
+    image: '/RUTHS/images/Food/QuickBites/paneerchesseballs.jpg' ,
     category: 'Quick Bites',
     section: 'food'
   },
@@ -91,7 +91,7 @@ const meatAndPoultry: MenuItem[] = [
     name: 'Chicken Nuggets',
     description: 'Juicy chicken nuggets with a crispy golden crust',
     price: 299,
-    image: 'src/images/Food/QuickBites/chicken nuggets.jpg',
+    image: '/RUTHS/images/Food/QuickBites/chicken nuggets.jpg',
     category: 'Quick Bites',
     section: 'food'
   },
@@ -100,7 +100,7 @@ const meatAndPoultry: MenuItem[] = [
     name: 'Chicken Fingers',
     description: 'Tender Chicken Strips Coated in Crispy Breadcrumbs',
     price: 299,
-    image: 'src/images/Food/QuickBites/chickenfingers.jpg',
+    image: '/RUTHS/images/Food/QuickBites/chickenfingers.jpg',
     category: 'Quick Bites',
     section: 'food'
   },
@@ -109,7 +109,7 @@ const meatAndPoultry: MenuItem[] = [
     name: 'Chicken Cheese Balls',
     description: 'Bite-Sized Chicken Balls Stuffed with gooey Cheese',
     price: 319,
-    image:  'src/images/Food/QuickBites/Chickencheeseballs.jpg' ,
+    image:  '/RUTHS/images/Food/QuickBites/Chickencheeseballs.jpg' ,
     category: 'Quick Bites',
     section: 'food'
   },
@@ -118,7 +118,7 @@ const meatAndPoultry: MenuItem[] = [
     name: 'Chicken Lollipop',
     description: 'Spicy, deep-fried chicken drumettes, served with sauce',
     price: 349,
-    image: 'src/images/Food/QuickBites/chickenlollipops.jpg',
+    image: '/RUTHS/images/Food/QuickBites/chickenlollipops.jpg',
     category: 'Quick Bites',
     section: 'food'
   },
@@ -127,7 +127,7 @@ const meatAndPoultry: MenuItem[] = [
     name: 'Chicken Wings',
     description: 'Crispy and juicy chicken wings coated in flavorful sauce',
     price: 349,
-    image: 'src/images/Food/QuickBites/chickenwings.jpg',
+    image: '/RUTHS/images/Food/QuickBites/chickenwings.jpg',
     category: 'Quick Bites',
     section: 'food'
   },
@@ -139,7 +139,7 @@ const seafood: MenuItem[] = [
     name: 'Veg Sandwich',
     description: 'A simple yet flavorful sandwich with fresh veggies and creamy spread',
     price: 219,
-    image: 'src/images/Food/Sandwiches/vegsandwich.jpg',
+    image: '/RUTHS/images/Food/Sandwiches/vegsandwich.jpg',
     category: 'Seafood',
     section: 'food'
   },
@@ -148,7 +148,7 @@ const seafood: MenuItem[] = [
     name: 'Veg Cheese Sandwich',
     description: 'A delicious combination of fresh vegetables and melted cheese',
     price: 239,
-    image: 'src/images/Food/Sandwiches/vegcheesesand.jpg',
+    image: '/RUTHS/images/Food/Sandwiches/vegcheesesand.jpg',
     category: 'Seafood',
     section: 'food'
   },
@@ -157,7 +157,7 @@ const seafood: MenuItem[] = [
     name: 'Veg Club Sandwich',
     description: 'A triple-layered sandwich filled with veggies, cheese, and tangy sauces',
     price: 250,
-    image: 'src/images/Food/Sandwiches/vegclubsand.jpg',
+    image: '/RUTHS/images/Food/Sandwiches/vegclubsand.jpg',
     category: 'Seafood',
     section: 'food'
   },
@@ -166,7 +166,7 @@ const seafood: MenuItem[] = [
     name: 'Classic Chicken Sandwich',
     description: 'A delicious combination of fresh vegetables and melted cheese',
     price: 289,
-    image: 'src/images/Food/Sandwiches/chickensand.jpg',
+    image: '/RUTHS/images/Food/Sandwiches/chickensand.jpg',
     category: 'Seafood',
     section: 'food'
   },
@@ -175,7 +175,7 @@ const seafood: MenuItem[] = [
     name: 'Chicken Club Sandwich',
     description: 'A delicious combination of fresh vegetables and melted cheese',
     price: 299,
-    image: 'src/images/Food/Sandwiches/chickclubsand.jpg',
+    image: '/RUTHS/images/Food/Sandwiches/chickclubsand.jpg',
     category: 'Seafood',
     section: 'food'
   }
@@ -187,7 +187,7 @@ const vegetarian: MenuItem[] = [
     name: 'Veg Cheese Burger',
     description: 'A crispy veggie patty topped with melted cheese in a soft bun',
     price: 249,
-    image: 'src/images/Food/Burgers/vegcheesebur.jpg',
+    image: '/RUTHS/images/Food/Burgers/vegcheesebur.jpg',
     category: 'Vegetarian/Vegan',
     section: 'food'
   },
@@ -196,7 +196,7 @@ const vegetarian: MenuItem[] = [
     name: 'Paneer Burger',
     description: 'Spiced panned patty with fresh veggies and creamy dressing',
     price: 299,
-    image: 'src/images/Food/Burgers/paneerbur.jpg',
+    image: '/RUTHS/images/Food/Burgers/paneerbur.jpg',
     category: 'Vegetarian/Vegan',
     section: 'food'
   },
@@ -205,7 +205,7 @@ const vegetarian: MenuItem[] = [
     name: 'Chicken Cheese Burger',
     description: 'A grilled chicken patty with melted cheese and special sauce',
     price: 359,
-    image: 'src/images/Food/Burgers/chickencheesebur.jpg',
+    image: '/RUTHS/images/Food/Burgers/chickencheesebur.jpg',
     category: 'Vegetarian/Vegan',
     section: 'food'
   },
@@ -214,7 +214,7 @@ const vegetarian: MenuItem[] = [
     name: 'Lamb Burger',
     description: 'Juicy lamb patty infused with spices, served with fresh lettuce and sauce',
     price: 399,
-    image: 'src/images/Food/Burgers/lambbur.jpg',
+    image: '/RUTHS/images/Food/Burgers/lambbur.jpg',
     category: 'Vegetarian/Vegan',
     section: 'food'
   },
@@ -223,7 +223,7 @@ const vegetarian: MenuItem[] = [
     name: 'Lamb Cheese Burger',
     description: 'Arich and flavorful lamb burger with melted cheese',
     price: 419,
-    image: 'src/images/Food/Burgers/lambcheesebur.jpg',
+    image: '/RUTHS/images/Food/Burgers/lambcheesebur.jpg',
     category: 'Vegetarian/Vegan',
     section: 'food'
   },
@@ -232,7 +232,7 @@ const vegetarian: MenuItem[] = [
     name: 'Egg Peggy',
     description: 'Seasoned egg with fresh veggies',
     price: 299,
-    image: 'src/images/Food/Burgers/eggpeggy.jpg',
+    image: '/RUTHS/images/Food/Burgers/eggpeggy.jpg',
     category: 'Vegetarian/Vegan',
     section: 'food'
   },
@@ -244,7 +244,7 @@ const sides: MenuItem[] = [
     name: 'Veg Hawaiian Pizza',
     description: 'A tropical delight with pineapple, bell peppers, and cheese',
     price: 310,
-    image: 'src/images/Food/Pizzas/Vegpinapizza.jpg',
+    image: '/RUTHS/images/Food/Pizzas/Vegpinapizza.jpg',
     category: 'Sides',
     section: 'food'
   },
@@ -253,7 +253,7 @@ const sides: MenuItem[] = [
     name: 'Veg Italian Pizza',
     description: 'Authentic Italian-style pizza with fresh basil and mozzarella',
     price: 349,
-    image: 'src/images/Food/Pizzas/vegittalianpizza.jpg',
+    image: '/RUTHS/images/Food/Pizzas/vegittalianpizza.jpg',
     category: 'Sides',
     section: 'food'
   },
@@ -262,7 +262,7 @@ const sides: MenuItem[] = [
     name: 'Veg Mexican Pizza',
     description: 'A spicy twist with jalapeños, beans, and tangy sauce',
     price: 329,
-    image: 'src/images/Food/Pizzas/vegmexicanpizza.jpg',
+    image: '/RUTHS/images/Food/Pizzas/vegmexicanpizza.jpg',
     category: 'Sides',
     section: 'food'
   },
@@ -271,7 +271,7 @@ const sides: MenuItem[] = [
     name: 'Classic Margherita Pizza',
     description: 'A simple yet delicious pizza with tomato, basil, and cheese',
     price: 299,
-    image: 'src/images/Food/Pizzas/pizzamargherita.jpg',
+    image: '/RUTHS/images/Food/Pizzas/pizzamargherita.jpg',
     category: 'Sides',
     section: 'food'
   },
@@ -280,7 +280,7 @@ const sides: MenuItem[] = [
     name: 'Cheese Corn Delight Pizza',
     description: 'A cheesy treat loaded with sweet corn and melted cheese',
     price: 299,
-    image: 'src/images/Food/Pizzas/cheesecornpizza.jpg',
+    image: '/RUTHS/images/Food/Pizzas/cheesecornpizza.jpg',
     category: 'Sides',
     section: 'food'
   },
@@ -289,7 +289,7 @@ const sides: MenuItem[] = [
     name: 'Paneer Pizza',
     description: 'A rich and flavorful pizza with spiced paneer toppings',
     price: 339,
-    image: 'src/images/Food/Pizzas/paneerpizza.jpg',
+    image: '/RUTHS/images/Food/Pizzas/paneerpizza.jpg',
     category: 'Sides',
     section: 'food'
   },
@@ -298,7 +298,7 @@ const sides: MenuItem[] = [
     name: 'Hawaiian Chicken Pizza',
     description: 'A combination of chicken, pineapple, and tangy sauce',
     price: 369,
-    image:  'src/images/Food/Pizzas/Hawailan chick pizza.jpg',
+    image:  '/RUTHS/images/Food/Pizzas/Hawailan chick pizza.jpg',
     category: 'Sides',
     section: 'food'
   },
@@ -307,7 +307,7 @@ const sides: MenuItem[] = [
     name: 'Spicy Chicken Pizza',
     description: 'A fiery pizza with spiced chicken and a hot sauce drizzle.',
     price: 369,
-    image: 'src/images/Food/Pizzas/chickspicepizza.jpg',
+    image: '/RUTHS/images/Food/Pizzas/chickspicepizza.jpg',
     category: 'Sides',
     section: 'food'
   },
@@ -316,7 +316,7 @@ const sides: MenuItem[] = [
     name: 'Chicken Overloaded Pizza',
     description: 'Packed with different chicken toppings for meat lovers',
     price: 399,
-    image: 'src/images/Food/Pizzas/chickenoverloadpizza.jpg',
+    image: '/RUTHS/images/Food/Pizzas/chickenoverloadpizza.jpg',
     category: 'Sides',
     section: 'food'
   },
@@ -329,7 +329,7 @@ const pastas: MenuItem[] = [
     name: 'Macaroni Cheese Pasta',
     description: 'A fusion of macaroni pasta , loaded with cheesy goodness.',
     price: 289,
-    image: 'src/images/Food/Pasta&Mains/macoroni_cheese.jpg',
+    image: '/RUTHS/images/Food/Pasta&Mains/macoroni_cheese.jpg',
     category: 'pastas',
     section: 'food'
   },
@@ -338,7 +338,7 @@ const pastas: MenuItem[] = [
     name: 'Veg Pasta',
     description: 'Creamy,rich pasta loaded with veggies and herbs.',
     price: 349,
-    image: 'src/images/Food/Pasta&Mains/vegpasta.jpg',
+    image: '/RUTHS/images/Food/Pasta&Mains/vegpasta.jpg',
     category: 'pastas',
     section: 'food'
   },
@@ -347,7 +347,7 @@ const pastas: MenuItem[] = [
     name: 'Non-Veg Pasta',
     description: 'A flavorful pasta with tender chicken and seafood.',
     price: 399,
-    image: 'src/images/Food/Pasta&Mains/non-veg pasta.jpg',
+    image: '/RUTHS/images/Food/Pasta&Mains/non-veg pasta.jpg',
     category: 'pastas',
     section: 'food'
   },
@@ -356,7 +356,7 @@ const pastas: MenuItem[] = [
     name: 'Peaky Panner',
     description: 'Paneer steak grilled to perfection with mash potato/fries and sauteed vegetables.',
     price: 399,
-    image: 'src/images/Food/Pasta&Mains/peaky panner.jpg',
+    image: '/RUTHS/images/Food/Pasta&Mains/peaky panner.jpg',
     category: 'pastas',
     section: 'food'
   },
@@ -365,7 +365,7 @@ const pastas: MenuItem[] = [
     name: 'Garlic Butter Chicken',
     description: 'Tender chicken cooked in rich garlic butter sauce.',
     price: 549,
-    image: 'src/images/Food/Pasta&Mains/garlic butter chicken pasta.jpg',
+    image: '/RUTHS/images/Food/Pasta&Mains/garlic butter chicken pasta.jpg',
     category: 'pastas',
     section: 'food'
   },
@@ -374,7 +374,7 @@ const pastas: MenuItem[] = [
     name: 'Grilled Fish with Kippers Sauce',
     description: 'Perfectly grilled fish with a tangy kippers sauce.',
     price: 699,
-    image: 'src/images/Food/Pasta&Mains/grill fish Kippers.jpg',
+    image: '/RUTHS/images/Food/Pasta&Mains/grill fish Kippers.jpg',
     category: 'pastas',
     section: 'food'
   },
@@ -383,7 +383,7 @@ const pastas: MenuItem[] = [
     name: 'Chilli Prawns',
     description: 'Spicy stir-fried prawns tossed with flavorful sauces.',
     price: 699,
-    image: 'src/images/Food/Pasta&Mains/chilli prawn.jpg',
+    image: '/RUTHS/images/Food/Pasta&Mains/chilli prawn.jpg',
     category: 'pastas',
     section: 'food'
   },
@@ -395,7 +395,7 @@ const pastries: MenuItem[] = [
     name: 'Butter Cinnamon Rolls',
     description: 'Soft, buttery rolls with cinnamon spice',
     price: 99,
-    image: 'src/images/Food/Pastries&Quinches/cardamomcinnamon.jpg',
+    image: '/RUTHS/images/Food/Pastries&Quinches/cardamomcinnamon.jpg',
     category: 'Pastries&Quinches',
     section: 'food'
   },
@@ -404,7 +404,7 @@ const pastries: MenuItem[] = [
     name: 'Spinach Corn Quiche',
     description: 'A savoury quiche filled with spinach, corn, and cheese',
     price: 149,
-    image: 'src/images/Food/Pastries&Quinches/spinachcornquiche.jpg',
+    image: '/RUTHS/images/Food/Pastries&Quinches/spinachcornquiche.jpg',
     category: 'Pastries&Quinches',
     section: 'food'
   },
@@ -413,7 +413,7 @@ const pastries: MenuItem[] = [
     name: 'Chicken Quiche',
     description: 'A delicious, flaky pastry filled with creamy chicken',
     price: 199,
-    image: 'src/images/Food/Pastries&Quinches/chickenquiche.jpg',
+    image: '/RUTHS/images/Food/Pastries&Quinches/chickenquiche.jpg',
     category: 'Pastries&Quinches',
     section: 'food'
   }
@@ -424,7 +424,7 @@ const croissants: MenuItem[] = [
     name: 'Butter Croissant',
     description: 'A light, buttery and flaky croissant.',
     price: 99,
-    image: 'src/images/Food/Croissants/buttercroissant.jpg',
+    image: '/RUTHS/images/Food/Croissants/buttercroissant.jpg',
     category: 'Croissants',
     section: 'food'
   },
@@ -433,7 +433,7 @@ const croissants: MenuItem[] = [
     name: 'Chocolate Croissant',
     description: 'A rich croissant filled with chocolate.',
     price: 109,
-    image: 'src/images/Food/Croissants/ChocolateCroissants.jpg',
+    image: '/RUTHS/images/Food/Croissants/ChocolateCroissants.jpg',
     category: 'Croissants',
     section: 'food'
   },
@@ -442,7 +442,7 @@ const croissants: MenuItem[] = [
     name: 'Cheese Croissant',
     description: 'A crispy croissant filled with a cheesy center.',
     price: 119,
-    image: 'src/images/Food/Croissants/french cheese croi.jpg',
+    image: '/RUTHS/images/Food/Croissants/french cheese croi.jpg',
     category: 'Croissants',
     section: 'food'
   },
@@ -451,7 +451,7 @@ const croissants: MenuItem[] = [
     name: 'Chicken Croissant',
     description: 'A croissant filled with seasoned chicken.',
     price: 149,
-    image: 'src/images/Food/Croissants/Chickencroissant.jpg' ,
+    image: '/RUTHS/images/Food/Croissants/Chickencroissant.jpg' ,
     category: 'Croissants',
     section: 'food'
   }
@@ -462,7 +462,7 @@ const muffins: MenuItem[] = [
     name: 'Vanilla Muffin',
     description: 'A soft, fluffy muffin with a classic vanilla falvour.',
     price: 69,
-    image: 'src/images/Food/Muffins/vanillamuffins.jpg',
+    image: '/RUTHS/images/Food/Muffins/vanillamuffins.jpg',
     category: 'Muffins',
     section: 'food'
   },
@@ -471,7 +471,7 @@ const muffins: MenuItem[] = [
     name: 'Blueberry Muffin',
     description: 'A moist muffin packed with fresh blueberries.',
     price: 89,
-    image: 'src/images/Food/Muffins/BlueberryMuffin.jpg',
+    image: '/RUTHS/images/Food/Muffins/BlueberryMuffin.jpg',
     category: 'Muffins',
     section: 'food'
   },
@@ -480,7 +480,7 @@ const muffins: MenuItem[] = [
     name: 'Strawberry Muffin',
     description: 'A sweet and tangy strawberry-flavored muffin.',
     price: 69,
-    image: 'src/images/Food/Muffins/strawberrymuffins.jpg',
+    image: '/RUTHS/images/Food/Muffins/strawberrymuffins.jpg',
     category: 'Muffins',
     section: 'food'
   },
@@ -489,7 +489,7 @@ const muffins: MenuItem[] = [
     name: 'Choco Chunk Muffin',
     description: 'A rich chocolate muffin loaded with chocolate chunks.',
     price: 99,
-    image: 'src/images/Food/Muffins/chocolatemuffin.jpg',
+    image: '/RUTHS/images/Food/Muffins/chocolatemuffin.jpg',
     category: 'Muffins',
     section: 'food'
   }
@@ -500,7 +500,7 @@ const cupcakes: MenuItem[] = [
     name: 'Vanilla Cupcake',
     description: 'A soft and fluffy vanilla-flavored cupcake.',
     price: 69,
-    image: 'src/images/Food/Cupcakes&Cakes/Vanilla.jpg',
+    image: '/RUTHS/images/Food/Cupcakes&Cakes/Vanilla.jpg',
     category: 'Cupcakes&Cakes',
     section: 'food'
   },
@@ -509,7 +509,7 @@ const cupcakes: MenuItem[] = [
     name: 'Chocolate Cupcake',
     description: 'A rich and moist chocolate cupcake.',
     price: 69,
-    image: 'src/images/Food/Cupcakes&Cakes/chocolate.jpg',
+    image: '/RUTHS/images/Food/Cupcakes&Cakes/chocolate.jpg',
     category: 'Cupcakes&Cakes',
     section: 'food'
   },
@@ -518,7 +518,7 @@ const cupcakes: MenuItem[] = [
     name: 'Red Velvet Cupcake',
     description: 'A luxurious, velvety cupcake with cream cheese frosting.',
     price: 69,
-    image: 'src/images/Food/Cupcakes&Cakes/red_velvet.jpg',
+    image: '/RUTHS/images/Food/Cupcakes&Cakes/red_velvet.jpg',
     category: 'Cupcakes&Cakes',
     section: 'food'
   },
@@ -527,7 +527,7 @@ const cupcakes: MenuItem[] = [
     name: 'Russian Medovik',
     description: 'A traditional Russian honey cake with layered cream.',
     price: 149,
-    image: 'src/images/Food/Cupcakes&Cakes/russian.jpg',
+    image: '/RUTHS/images/Food/Cupcakes&Cakes/russian.jpg',
     category: 'Cupcakes&Cakes',
     section: 'food'
   },
@@ -536,7 +536,7 @@ const cupcakes: MenuItem[] = [
     name: 'Opera',
     description: 'A sophisticated French cake with coffe and chocolate layers.',
     price: 149,
-    image: 'src/images/Food/Cupcakes&Cakes/opera.jpg',
+    image: '/RUTHS/images/Food/Cupcakes&Cakes/opera.jpg',
     category: 'Cupcakes&Cakes',
     section: 'food'
   },
@@ -545,7 +545,7 @@ const cupcakes: MenuItem[] = [
     name: 'Chocolate Mousse Jar',
     description: 'A rich, creamy chocolate mousse served in a jar.',
     price: 179,
-    image: 'src/images/Food/Cupcakes&Cakes/chocomousse.jpg',
+    image: '/RUTHS/images/Food/Cupcakes&Cakes/chocomousse.jpg',
     category: 'Cupcakes&Cakes',
     section: 'food'
   },
@@ -554,7 +554,7 @@ const cupcakes: MenuItem[] = [
     name: 'Passion Fruit Jar',
     description: 'A tangy and refreshing passion fruit dessert.',
     price: 149,
-    image: 'src/images/Food/Cupcakes&Cakes/passionjar.jpg',
+    image: '/RUTHS/images/Food/Cupcakes&Cakes/passionjar.jpg',
     category: 'Cupcakes&Cakes',
     section: 'food'
   },
@@ -563,7 +563,7 @@ const cupcakes: MenuItem[] = [
     name: 'Strawberry Jar',
     description: 'A layered strawberry dessert in a jar.',
     price: 179,
-    image: 'src/images/Food/Cupcakes&Cakes/strawberryjar.jpg',
+    image: '/RUTHS/images/Food/Cupcakes&Cakes/strawberryjar.jpg',
     category: 'Cupcakes&Cakes',
     section: 'food'
   },
@@ -574,7 +574,7 @@ const cheesecakes: MenuItem[] = [
     name: 'Blueberry Cheesecake Slice',
     description: 'A smooth and creamy cheesecake with blueberry topping.',
     price: 219,
-    image: 'src/images/Food/Cheesecakes/Blueberry.jpg',
+    image: '/RUTHS/images/Food/Cheesecakes/Blueberry.jpg',
     category: 'Cheesecakes',
     section: 'food'
   },
@@ -583,7 +583,7 @@ const cheesecakes: MenuItem[] = [
     name: 'Raspberry Cheesecake Slice',
     description: 'A classic cheesecake topped with fresh raspberries.',
     price: 219,
-    image: 'src/images/Food/Cheesecakes/Raspberry.jpg',
+    image: '/RUTHS/images/Food/Cheesecakes/Raspberry.jpg',
     category: 'Cheesecakes',
     section: 'food'
   },
@@ -592,7 +592,7 @@ const cheesecakes: MenuItem[] = [
     name: 'Salted Caramel Slice',
     description: 'A rich cheesecake with a salted caramel drizzle.',
     price: 699,
-    image: 'src/images/Food/Cheesecakes/SaltedCaramel.jpg',
+    image: '/RUTHS/images/Food/Cheesecakes/SaltedCaramel.jpg',
     category: 'Cheesecakes',
     section: 'food'
   },
@@ -601,7 +601,7 @@ const cheesecakes: MenuItem[] = [
     name: 'Blueberry Cheesecake Full',
     description: 'A smooth and creamy cheesecake with blueberry topping.',
     price: 699,
-    image: 'src/images/Food/Cheesecakes/Blueberry.jpg',
+    image: '/RUTHS/images/Food/Cheesecakes/Blueberry.jpg',
     category: 'Cheesecakes',
     section: 'food'
   },
@@ -610,7 +610,7 @@ const cheesecakes: MenuItem[] = [
     name: 'Raspberry Cheesecake Full',
     description: 'A classic cheesecake topped with fresh raspberries.',
     price: 699,
-    image: 'src/images/Food/Cheesecakes/Raspberry.jpg',
+    image: '/RUTHS/images/Food/Cheesecakes/Raspberry.jpg',
     category: 'Cheesecakes',
     section: 'food'
   },
@@ -619,7 +619,7 @@ const cheesecakes: MenuItem[] = [
     name: 'Salted Caramel Full',
     description: 'A rich cheesecake with a salted caramel drizzle.',
     price: 699,
-    image: 'src/images/Food/Cheesecakes/SaltedCaramel.jpg',
+    image: '/RUTHS/images/Food/Cheesecakes/SaltedCaramel.jpg',
     category: 'Cheesecakes',
     section: 'food'
   }
@@ -631,7 +631,7 @@ const wholecakes: MenuItem[] = [
     name: 'Vanilla Cake(500g)',
     description: 'A light and fluffy vanilla-flavored cake.',
     price: 599,
-    image: 'src/images/Food/WholeCakes/Vanilla-Cake.jpg',
+    image: '/RUTHS/images/Food/WholeCakes/Vanilla-Cake.jpg',
     category: 'Whole Cakes',
     section: 'food'
   },
@@ -640,7 +640,7 @@ const wholecakes: MenuItem[] = [
     name: 'Vanilla Cake(750g)',
     description: 'A light and fluffy vanilla-flavored cake.',
     price: 999,
-    image: 'src/images/Food/WholeCakes/Vanilla-Cake.jpg',
+    image: '/RUTHS/images/Food/WholeCakes/Vanilla-Cake.jpg',
     category: 'Whole Cakes',
     section: 'food'
   },
@@ -649,7 +649,7 @@ const wholecakes: MenuItem[] = [
     name: 'Vanilla Cake(1000g)',
     description: 'A light and fluffy vanilla-flavored cake.',
     price: 1499,
-    image: 'src/images/Food/WholeCakes/Vanilla-Cake.jpg',
+    image: '/RUTHS/images/Food/WholeCakes/Vanilla-Cake.jpg',
     category: 'Whole Cakes',
     section: 'food'
   },
@@ -658,7 +658,7 @@ const wholecakes: MenuItem[] = [
     name: 'Chocolate Truffle Cake(500g)',
     description: 'A decadent chocolate cake with a rich truffle layer.',
     price: 799,
-    image: 'src/images/Food/WholeCakes/choco truffle coke.jpg',
+    image: '/RUTHS/images/Food/WholeCakes/choco truffle coke.jpg',
     category: 'Whole Cakes',
     section: 'food'
   },
@@ -667,7 +667,7 @@ const wholecakes: MenuItem[] = [
     name: 'Chocolate Truffle Cake(750g)',
     description: 'A decadent chocolate cake with a rich truffle layer.',
     price: 1199,
-    image: 'src/images/Food/WholeCakes/choco truffle coke.jpg',
+    image: '/RUTHS/images/Food/WholeCakes/choco truffle coke.jpg',
     category: 'Whole Cakes',
     section: 'food'
   },
@@ -676,7 +676,7 @@ const wholecakes: MenuItem[] = [
     name: 'Chocolate Truffle Cake(1000g)',
     description: 'A decadent chocolate cake with a rich truffle layer.',
     price: 1899,
-    image: 'src/images/Food/WholeCakes/choco truffle coke.jpg',
+    image: '/RUTHS/images/Food/WholeCakes/choco truffle coke.jpg',
     category: 'Whole Cakes',
     section: 'food'
   },
@@ -685,7 +685,7 @@ const wholecakes: MenuItem[] = [
     name: 'Coffee Chiffon Cake(500g)',
     description: 'A light and airy coffee-flavored cake.',
     price: 799,
-    image: 'src/images/Food/WholeCakes/coffee chiffon cake.jpg',
+    image: '/RUTHS/images/Food/WholeCakes/coffee chiffon cake.jpg',
     category: 'Whole Cakes',
     section: 'food'
   },
@@ -694,7 +694,7 @@ const wholecakes: MenuItem[] = [
     name: 'Coffee Chiffon Cake(750g)',
     description: 'A light and airy coffee-flavored cake.',
     price: 1199,
-    image: 'src/images/Food/WholeCakes/coffee chiffon cake.jpg',
+    image: '/RUTHS/images/Food/WholeCakes/coffee chiffon cake.jpg',
     category: 'Whole Cakes',
     section: 'food'
   },
@@ -703,7 +703,7 @@ const wholecakes: MenuItem[] = [
     name: 'Coffee Chiffon Cake(1000g)',
     description: 'A light and airy coffee-flavored cake.',
     price: 1899,
-    image: 'src/images/Food/WholeCakes/coffee chiffon cake.jpg',
+    image: '/RUTHS/images/Food/WholeCakes/coffee chiffon cake.jpg',
     category: 'Whole Cakes',
     section: 'food'
   },
@@ -712,7 +712,7 @@ const wholecakes: MenuItem[] = [
     name: 'Valentine Velvet Cake(500g)',
     description: 'A special red velvet cake for celebrations.',
     price: 799,
-    image: 'src/images/Food/WholeCakes/redvelvet.jpg',
+    image: '/RUTHS/images/Food/WholeCakes/redvelvet.jpg',
     category: 'Whole Cakes',
     section: 'food'
   },
@@ -721,7 +721,7 @@ const wholecakes: MenuItem[] = [
     name: 'Valentine Velvet Cake(750g)',
     description: 'A special red velvet cake for celebrations.',
     price: 1199,
-    image: 'src/images/Food/WholeCakes/redvelvet.jpg',
+    image: '/RUTHS/images/Food/WholeCakes/redvelvet.jpg',
     category: 'Whole Cakes',
     section: 'food'
   },
@@ -730,7 +730,7 @@ const wholecakes: MenuItem[] = [
     name: 'Valentine Velvet Cake(1000g)',
     description: 'A special red velvet cake for celebrations.',
     price: 1899,
-    image: 'src/images/Food/WholeCakes/redvelvet.jpg',
+    image: '/RUTHS/images/Food/WholeCakes/redvelvet.jpg',
     category: 'Whole Cakes',
     section: 'food'
   },
@@ -739,7 +739,7 @@ const wholecakes: MenuItem[] = [
     name: 'Tiramisu(500g)',
     description: 'A classic Italian dessert with layers of coffee-soaked sponge and mascarpone.',
     price: 899,
-    image: 'src/images/Food/WholeCakes/Tiramisu.jpg',
+    image: '/RUTHS/images/Food/WholeCakes/Tiramisu.jpg',
     category: 'Whole Cakes',
     section: 'food'
   },
@@ -748,7 +748,7 @@ const wholecakes: MenuItem[] = [
     name: 'Tiramisu(750g)',
     description: 'A classic Italian dessert with layers of coffee-soaked sponge and mascarpone.',
     price: 1499,
-    image: 'src/images/Food/WholeCakes/Tiramisu.jpg',
+    image: '/RUTHS/images/Food/WholeCakes/Tiramisu.jpg',
     category: 'Whole Cakes',
     section: 'food'
   },
@@ -757,7 +757,7 @@ const wholecakes: MenuItem[] = [
     name: 'Tiramisu(1000g)',
     description: 'A classic Italian dessert with layers of coffee-soaked sponge and mascarpone.',
     price: 2499,
-    image: 'src/images/Food/WholeCakes/Tiramisu.jpg',
+    image: '/RUTHS/images/Food/WholeCakes/Tiramisu.jpg',
     category: 'Whole Cakes',
     section: 'food'
   }
@@ -769,7 +769,7 @@ const puffs: MenuItem[] = [
     name: 'Veg Puff',
     description: 'A crispy, falky puff stuffed with spiced veggies.',
     price: 69,
-    image: 'src/images/Food/Puffs/veg_puff.jpg',
+    image: '/RUTHS/images/Food/Puffs/veg_puff.jpg',
     category: 'Puffs',
     section: 'food'
   },
@@ -778,7 +778,7 @@ const puffs: MenuItem[] = [
     name: 'Egg Puff',
     description: 'A golden puff filled with seasoned egg.',
     price: 79,
-    image: 'src/images/Food/Puffs/egg-puff.jpg',
+    image: '/RUTHS/images/Food/Puffs/egg-puff.jpg',
     category: 'Puffs',
     section: 'food'
   },
@@ -787,7 +787,7 @@ const puffs: MenuItem[] = [
     name: 'Chicken Puff',
     description: 'A buttery puff pastry filled with flavorful chicken.',
     price: 99,
-    image: 'src/images/Food/Puffs/chicken_puff.jpg',
+    image: '/RUTHS/images/Food/Puffs/chicken_puff.jpg',
     category: 'Puffs',
     section: 'food'
   }
@@ -799,7 +799,7 @@ const cookies: MenuItem[] = [
     name: 'Cashew Cardamom Cookie',
     description: 'A delightful blend of cashew and aromatic cardamom.',
     price: 79,
-    image: 'src/images/Food/Cookies/cashew cardamom cookies.jpg',
+    image: '/RUTHS/images/Food/Cookies/cashew cardamom cookies.jpg',
     category: 'Cookies',
     section: 'food'
   },
@@ -808,7 +808,7 @@ const cookies: MenuItem[] = [
     name: 'Choco Chip Cookie',
     description: 'Classic cookies loaded with chocolate chips.',
     price: 79,
-    image: 'src/images/Food/Cookies/choco chip cookie.jpg',
+    image: '/RUTHS/images/Food/Cookies/choco chip cookie.jpg',
     category: 'Cookies',
     section: 'food'
   },
@@ -817,7 +817,7 @@ const cookies: MenuItem[] = [
     name: 'Butter Cookie',
     description: 'Buttery, melt-in-your-mouth cookies.',
     price: 45,
-    image: 'src/images/Food/Cookies/Buttercookies.jpg',
+    image: '/RUTHS/images/Food/Cookies/Buttercookies.jpg',
     category: 'Cookies',
     section: 'food'
   }
@@ -829,7 +829,7 @@ const brownies: MenuItem[] = [
     name: 'Choco Chunk Brownie',
     description: 'A rich, fudgy brownie with chunks of chocolate.',
     price: 99,
-    image: 'src/images/Food/Brownies/choco chunk brownie.jpg',
+    image: '/RUTHS/images/Food/Brownies/choco chunk brownie.jpg',
     category: 'Brownies',
     section: 'food'
   },
@@ -838,7 +838,7 @@ const brownies: MenuItem[] = [
     name: 'Salted Caramel Brownie',
     description: 'A perfect mix of chocolate and caramel with a hint of salt.',
     price: 109,
-    image: 'src/images/Food/Brownies/Caramel brownie.jpg',
+    image: '/RUTHS/images/Food/Brownies/Caramel brownie.jpg',
     category: 'Brownies',
     section: 'food'
   },
@@ -847,7 +847,7 @@ const brownies: MenuItem[] = [
     name: 'Walnut Brownie',
     description: 'A chewy, chocolatey brownie with crunchy walnuts.',
     price: 199,
-    image: 'src/images/Food/Brownies/walnutbrownies.jpg',
+    image: '/RUTHS/images/Food/Brownies/walnutbrownies.jpg',
     category: 'Brownies',
     section: 'food'
   }
@@ -859,7 +859,7 @@ const breadAndBruschetta: MenuItem[] = [
     name: 'Garlic Bread with Cheese',
     description: 'Crispy, cheesy, and garlic-infused delight.',
     price: 199,
-    image: 'src/images/Food/Bread&Bruschetta/Garlic Bread with Cheese.jpg',
+    image: '/RUTHS/images/Food/Bread&Bruschetta/Garlic Bread with Cheese.jpg',
     category: 'Bread&Bruschetta',
     section: 'food'
   },
@@ -868,7 +868,7 @@ const breadAndBruschetta: MenuItem[] = [
     name: 'Bruschetta',
     description: 'Toasted bread with fresh tomato and basil.',
     price: 229,
-    image: 'src/images/Food/Bread&Bruschetta/Bruschetta.jpg',
+    image: '/RUTHS/images/Food/Bread&Bruschetta/Bruschetta.jpg',
     category: 'Bread&Bruschetta',
     section: 'food'
   },
@@ -877,7 +877,7 @@ const breadAndBruschetta: MenuItem[] = [
     name: 'Chicken Bruschetta',
     description: 'Crispy bread topped with chicken and tomatoes.',
     price: 259,
-    image: 'src/images/Food/Bread&Bruschetta/Chicken Bruschetta.jpg',
+    image: '/RUTHS/images/Food/Bread&Bruschetta/Chicken Bruschetta.jpg',
     category: 'Bread&Bruschetta',
     section: 'food'
   }
@@ -889,7 +889,7 @@ const berliner: MenuItem[] = [
     name: 'Dark Chocolate Truffle Berliner',
     description: 'A chocolate-filled Berliner with a truffle center.',
     price: 89,
-    image: 'src/images/Food/Berliner/Dark Chocolate Truffle Berliner.jpg',
+    image: '/RUTHS/images/Food/Berliner/Dark Chocolate Truffle Berliner.jpg',
     category: 'Berliner',
     section: 'food'
   },
@@ -898,7 +898,7 @@ const berliner: MenuItem[] = [
     name: 'Boston Cream Berliner',
     description: 'A soft Berliner filled with smooth vanilla cream.',
     price: 99,
-    image: 'src/images/Food/Berliner/Boston Cream Berliner.jpg',
+    image: '/RUTHS/images/Food/Berliner/Boston Cream Berliner.jpg',
     category: 'Berliner',
     section: 'food'
   },
@@ -907,7 +907,7 @@ const berliner: MenuItem[] = [
     name: 'Blueberry Berliner',
     description: 'A fruit-filed Berliner with blueberry flavors.',
     price: 99,
-    image: 'src/images/Food/Berliner/Blueberry Berliner.jpg',
+    image: '/RUTHS/images/Food/Berliner/Blueberry Berliner.jpg',
     category: 'Berliner',
     section: 'food'
   }
@@ -919,7 +919,7 @@ const doughnuts: MenuItem[] = [
     name: 'Sugar-Glazed Doughnut',
     description: 'A soft doughnut coated with a sweet sugar glaze.',
     price: 69,
-    image: 'src/images/Food/Doughnuts/Sugar-Glazed Doughnut.jpg',
+    image: '/RUTHS/images/Food/Doughnuts/Sugar-Glazed Doughnut.jpg',
     category: 'Doughnuts',
     section: 'food'
   },
@@ -928,7 +928,7 @@ const doughnuts: MenuItem[] = [
     name: 'White Chocolate Doughnut',
     description: 'A doughnut topped with creamy white chocolate icing.',
     price: 79,
-    image: 'src/images/Food/Doughnuts/White Chocolate Doughnut.jpg',
+    image: '/RUTHS/images/Food/Doughnuts/White Chocolate Doughnut.jpg',
     category: 'Doughnuts',
     section: 'food'
   },
@@ -937,7 +937,7 @@ const doughnuts: MenuItem[] = [
     name: 'Dark Chocolate Doughnut',
     description: 'A rich, dark chocolate covered doughnut.',
     price: 79,
-    image: 'src/images/Food/Doughnuts/Dark Chocolate Doughnut.jpg',
+    image: '/RUTHS/images/Food/Doughnuts/Dark Chocolate Doughnut.jpg',
     category: 'Doughnuts',
     section: 'food'
   }
@@ -1023,7 +1023,7 @@ export const beverageCategories = [
         name: 'Espresso',
         description: 'Strong, bold coffee shot.',
         price: 169,
-        image: 'src/images/Beverages/Hot Coffee/espresso-coffee.jpg',
+        image: '/RUTHS/images/Beverages/Hot Coffee/espresso-coffee.jpg',
         category: 'Hot Coffee',
         section: 'beverages'
       },
@@ -1032,7 +1032,7 @@ export const beverageCategories = [
         name: 'Americano',
         description: 'Espresso + hot water.',
         price: 180,
-        image: 'src/images/Beverages/Hot Coffee/americano.jpg',
+        image: '/RUTHS/images/Beverages/Hot Coffee/americano.jpg',
         category: 'Hot Coffee',
         section: 'beverages'
       },
@@ -1041,7 +1041,7 @@ export const beverageCategories = [
         name: 'Long Black',
         description: 'Intense long black coffee.',
         price: 180,
-        image: 'src/images/Beverages/Hot Coffee/long black.jpg',
+        image: '/RUTHS/images/Beverages/Hot Coffee/long black.jpg',
         category: 'Hot Coffee',
         section: 'beverages'
       },
@@ -1050,7 +1050,7 @@ export const beverageCategories = [
         name: 'Macchiato',
         description: 'Espresso + Milk foam.',
         price: 180,
-        image: 'src/images/Beverages/Hot Coffee/Macchiato.jpg',
+        image: '/RUTHS/images/Beverages/Hot Coffee/Macchiato.jpg',
         category: 'Hot Coffee',
         section: 'beverages'
       },
@@ -1059,7 +1059,7 @@ export const beverageCategories = [
         name: 'Falt White',
         description: 'Espresso + milk.',
         price: 210,
-        image: 'src/images/Beverages/Hot Coffee/flat-white.jpg',
+        image: '/RUTHS/images/Beverages/Hot Coffee/flat-white.jpg',
         category: 'Hot Coffee',
         section: 'beverages'
       },
@@ -1068,7 +1068,7 @@ export const beverageCategories = [
         name: 'Cappuccino',
         description: 'Espresso + steamed milk + thick foam.',
         price: 229,
-        image: 'src/images/Beverages/Hot Coffee/cappucino.jpg',
+        image: '/RUTHS/images/Beverages/Hot Coffee/cappucino.jpg',
         category: 'Hot Coffee',
         section: 'beverages'
       },
@@ -1077,7 +1077,7 @@ export const beverageCategories = [
         name: 'Latte',
         description: 'Espresso + more milk, light foam.',
         price: 239,
-        image: 'src/images/Beverages/Hot Coffee/Cafe Latte.jpg.jpeg',
+        image: '/RUTHS/images/Beverages/Hot Coffee/Cafe Latte.jpg.jpeg',
         category: 'Hot Coffee',
         section: 'beverages'
       },
@@ -1086,7 +1086,7 @@ export const beverageCategories = [
         name: 'Café Mocha',
         description: 'Espresso +  chocolate + milk.',
         price: 239,
-        image: 'src/images/Beverages/Hot Coffee/cafe mocha.jpg',
+        image: '/RUTHS/images/Beverages/Hot Coffee/cafe mocha.jpg',
         category: 'Hot Coffee',
         section: 'beverages'
       },
@@ -1095,7 +1095,7 @@ export const beverageCategories = [
         name: 'Irish Coffee',
         description: 'Coffee + Irish flavor + cream.',
         price: 249,
-        image: 'src/images/Beverages/Hot Coffee/irish-coffee.jpg',
+        image: '/RUTHS/images/Beverages/Hot Coffee/irish-coffee.jpg',
         category: 'Hot Coffee',
         section: 'beverages'
       }
@@ -1110,7 +1110,7 @@ export const beverageCategories = [
         name: 'Cold Brew',
         description: 'Smooth, low-acid iced coffee.',
         price: 109,
-        image: 'src/images/Beverages/Cold Coffee/Cold-Brew.jpg',
+        image: '/RUTHS/images/Beverages/Cold Coffee/Cold-Brew.jpg',
         category: 'Cold Coffee',
         section: 'beverages'
       },
@@ -1119,7 +1119,7 @@ export const beverageCategories = [
         name: 'Autum Brew',
         description: 'Unique cold brew.',
         price: 149,
-        image: 'src/images/Beverages/Cold Coffee/autum brew.jpg',
+        image: '/RUTHS/images/Beverages/Cold Coffee/autum brew.jpg',
         category: 'Cold Coffee',
         section: 'beverages'
       },
@@ -1128,7 +1128,7 @@ export const beverageCategories = [
         name: 'Cranberry Cold Brew',
         description: 'Cold brew + cranberry + soda.',
         price: 149,
-        image: 'src/images/Beverages/Cold Coffee/canberry_cold_brew.jpg',
+        image: '/RUTHS/images/Beverages/Cold Coffee/canberry_cold_brew.jpg',
         category: 'Cold Coffee',
         section: 'beverages'
       },
@@ -1137,7 +1137,7 @@ export const beverageCategories = [
         name: 'Iced Mocha',
         description: 'Espresso + milk + chocolate + ice.',
         price: 235,
-        image: 'src/images/Beverages/Cold Coffee/iced_mocha.jpg',
+        image: '/RUTHS/images/Beverages/Cold Coffee/iced_mocha.jpg',
         category: 'Cold Coffee',
         section: 'beverages'
       },
@@ -1146,7 +1146,7 @@ export const beverageCategories = [
         name: 'Iced Latte',
         description: 'Espresso + milk + ice.',
         price: 249,
-        image: 'src/images/Beverages/Cold Coffee/Iced-Latte.jpg',
+        image: '/RUTHS/images/Beverages/Cold Coffee/Iced-Latte.jpg',
         category: 'Cold Coffee',
         section: 'beverages'
       },
@@ -1155,7 +1155,7 @@ export const beverageCategories = [
         name: 'Affogato',
         description: 'Espresso over ice cream.',
         price: 250,
-        image: 'src/images/Beverages/Cold Coffee/affogato.jpg',
+        image: '/RUTHS/images/Beverages/Cold Coffee/affogato.jpg',
         category: 'Cold Coffee',
         section: 'beverages'
       },
@@ -1164,7 +1164,7 @@ export const beverageCategories = [
         name: 'Classic Cold Coffee',
         description: 'Traditional chilled coffee.',
         price: 310,
-        image: 'src/images/Beverages/Cold Coffee/classic_cold.jpg',
+        image: '/RUTHS/images/Beverages/Cold Coffee/classic_cold.jpg',
         category: 'Cold Coffee',
         section: 'beverages'
       },
@@ -1173,7 +1173,7 @@ export const beverageCategories = [
         name: 'Frappuccino',
         description: 'Blended iced coffee + flavors.',
         price: 329,
-        image: 'src/images/Beverages/Cold Coffee/FRAPPUCCINO.jpg',
+        image: '/RUTHS/images/Beverages/Cold Coffee/FRAPPUCCINO.jpg',
         category: 'Cold Coffee',
         section: 'beverages'
       }
@@ -1293,7 +1293,7 @@ export const beverageCategories = [
         name: 'Classic Green Tea',
         description: 'Simple, healthy.',
         price: 109,
-        image: 'src/images/Beverages/Hot Tea/Classic Green Tea.jpg',
+        image: '/RUTHS/images/Beverages/Hot Tea/Classic Green Tea.jpg',
         category: 'Hot Tea',
         section: 'beverages'
       },
@@ -1302,7 +1302,7 @@ export const beverageCategories = [
         name: 'Lemon Honey Green Tea',
         description: 'Citrus + honey.',
         price: 129,
-        image: 'src/images/Beverages/Hot Tea/Lemon Honey Green Tea.jpg',
+        image: '/RUTHS/images/Beverages/Hot Tea/Lemon Honey Green Tea.jpg',
         category: 'Hot Tea',
         section: 'beverages'
       },
@@ -1311,7 +1311,7 @@ export const beverageCategories = [
         name: 'Chamomile Green Tea',
         description: 'Soothing herbal tea.',
         price: 139,
-        image: 'src/images/Beverages/Hot Tea/Chamomile Green Tea.jpg',
+        image: '/RUTHS/images/Beverages/Hot Tea/Chamomile Green Tea.jpg',
         category: 'Hot Tea',
         section: 'beverages'
       },
@@ -1320,7 +1320,7 @@ export const beverageCategories = [
         name: 'Lavender Earl Grey Tea',
         description: 'Floral, aromatic tea.',
         price: 139,
-        image: 'src/images/Beverages/Hot Tea/Lavender Earl Grey Tea.jpg',
+        image: '/RUTHS/images/Beverages/Hot Tea/Lavender Earl Grey Tea.jpg',
         category: 'Hot Tea',
         section: 'beverages'
       },
@@ -1329,7 +1329,7 @@ export const beverageCategories = [
         name: 'Hibiscus Green Tea',
         description: 'Tangy floral tea.',
         price: 139,
-        image: 'src/images/Beverages/Hot Tea/Hibiscus Green Tea.jpg',
+        image: '/RUTHS/images/Beverages/Hot Tea/Hibiscus Green Tea.jpg',
         category: 'Hot Tea',
         section: 'beverages'
       },
@@ -1338,7 +1338,7 @@ export const beverageCategories = [
         name: 'Butterfly Pea Tea',
         description: 'Blue herbal tea.',
         price: 139,
-        image: 'src/images/Beverages/Hot Tea/Butterfly Pea Tea.jpg',
+        image: '/RUTHS/images/Beverages/Hot Tea/Butterfly Pea Tea.jpg',
         category: 'Hot Tea',
         section: 'beverages'
       }
@@ -1353,7 +1353,7 @@ export const beverageCategories = [
         name: 'Lemon Iced Tea',
         description: 'Lemon + black tea.',
         price: 229,
-        image: 'src/images/Beverages/Iced Tea/Lemon Iced Tea.jpg',
+        image: '/RUTHS/images/Beverages/Iced Tea/Lemon Iced Tea.jpg',
         category: 'Iced Tea',
         section: 'beverages'
       },
@@ -1362,7 +1362,7 @@ export const beverageCategories = [
         name: 'Apple Iced Tea',
         description: 'Apple-infused iced tea.',
         price: 259,
-        image: 'src/images/Beverages/Iced Tea/Apple Iced Tea.jpg',
+        image: '/RUTHS/images/Beverages/Iced Tea/Apple Iced Tea.jpg',
         category: 'Iced Tea',
         section: 'beverages'
       },
@@ -1371,7 +1371,7 @@ export const beverageCategories = [
         name: 'Peach Iced Tea',
         description: 'Peachy, refreshing.',
         price: 279,
-        image: 'src/images/Beverages/Iced Tea/Peach Iced Tea.jpg',
+        image: '/RUTHS/images/Beverages/Iced Tea/Peach Iced Tea.jpg',
         category: 'Iced Tea',
         section: 'beverages'
       },
@@ -1380,7 +1380,7 @@ export const beverageCategories = [
         name: 'Coconut Iced Tea',
         description: 'Coconut twist.',
         price: 279,
-        image: 'src/images/Beverages/Iced Tea/Coconut Iced Tea.jpg',
+        image: '/RUTHS/images/Beverages/Iced Tea/Coconut Iced Tea.jpg',
         category: 'Iced Tea',
         section: 'beverages'
       }
@@ -1395,7 +1395,7 @@ export const beverageCategories = [
         name: 'Virgin Mojito',
         description: 'Mint, lime, soda and sugar.',
         price: 209,
-        image: 'src/images/Beverages/Mojitos/Virgin Mojito.jpg',
+        image: '/RUTHS/images/Beverages/Mojitos/Virgin Mojito.jpg',
         category: 'Mojitos',
         section: 'beverages'
       },
@@ -1404,7 +1404,7 @@ export const beverageCategories = [
         name: 'Blue Lagoon',
         description: 'Blue curacao, mint, lime, soda.',
         price: 229,
-        image: 'src/images/Beverages/Mojitos/Blue Lagoon.jpg',
+        image: '/RUTHS/images/Beverages/Mojitos/Blue Lagoon.jpg',
         category: 'Mojitos',
         section: 'beverages'
       },
@@ -1413,7 +1413,7 @@ export const beverageCategories = [
         name: 'Berry basil',
         description: 'Berries, basil, lime, soda.',
         price: 249,
-        image: 'src/images/Beverages/Mojitos/Berry basil.jpg',
+        image: '/RUTHS/images/Beverages/Mojitos/Berry basil.jpg',
         category: 'Mojitos',
         section: 'beverages'
       },
@@ -1422,7 +1422,7 @@ export const beverageCategories = [
         name: 'Cranberry',
         description: 'Cranberry juice, mint, lime, soda.',
         price: 259,
-        image: 'src/images/Beverages/Mojitos/Cranberry.jpg',
+        image: '/RUTHS/images/Beverages/Mojitos/Cranberry.jpg',
         category: 'Mojitos',
         section: 'beverages'
       },
@@ -1431,7 +1431,7 @@ export const beverageCategories = [
         name: 'Green Apple',
         description: 'Green apple syrup, mint, lime, soda.',
         price: 259,
-        image: 'src/images/Beverages/Mojitos/Green Apple.jpg',
+        image: '/RUTHS/images/Beverages/Mojitos/Green Apple.jpg',
         category: 'Mojitos',
         section: 'beverages'
       },
@@ -1440,7 +1440,7 @@ export const beverageCategories = [
         name: 'Watermelon',
         description: 'Watermelon syrup, lime, soda.',
         price: 259,
-        image: 'src/images/Beverages/Mojitos/Watermelon.jpg',
+        image: '/RUTHS/images/Beverages/Mojitos/Watermelon.jpg',
         category: 'Mojitos',
         section: 'beverages'
       }
@@ -1455,7 +1455,7 @@ export const beverageCategories = [
         name: 'Vanilla Shake',
         description: 'Vanilla flavor + ice cream + milk.',
         price: 249,
-        image: 'src/images/Beverages/Milkshakes/Vanilla Shake.jpg',
+        image: '/RUTHS/images/Beverages/Milkshakes/Vanilla Shake.jpg',
         category: 'Milkshakes',
         section: 'beverages'
       },
@@ -1464,7 +1464,7 @@ export const beverageCategories = [
         name: 'Strawberry Milkshake',
         description: 'Strawberry flavor + milk + ice cream.',
         price: 269,
-        image: 'src/images/Beverages/Milkshakes/Strawberry Milkshake.jpg',
+        image: '/RUTHS/images/Beverages/Milkshakes/Strawberry Milkshake.jpg',
         category: 'Milkshakes',
         section: 'beverages'
       },
@@ -1473,7 +1473,7 @@ export const beverageCategories = [
         name: 'Cookie Crumble Milkshake',
         description: 'Oreo cookie + milk + ice cream.',
         price: 329,
-        image: 'src/images/Beverages/Milkshakes/Cookie Crumble Milkshake.jpg',
+        image: '/RUTHS/images/Beverages/Milkshakes/Cookie Crumble Milkshake.jpg',
         category: 'Milkshakes',
         section: 'beverages'
       },
@@ -1482,7 +1482,7 @@ export const beverageCategories = [
         name: 'Nutella Shake',
         description: 'Nutella + ice cream + milk.',
         price: 339,
-        image: 'src/images/Beverages/Milkshakes/Nutella Shake.jpg',
+        image: '/RUTHS/images/Beverages/Milkshakes/Nutella Shake.jpg',
         category: 'Milkshakes',
         section: 'beverages'
       },
@@ -1491,7 +1491,7 @@ export const beverageCategories = [
         name: 'Brownie Shake',
         description: 'Brownie + chocolate + ice cream + milk.',
         price: 349,
-        image: 'src/images/Beverages/Milkshakes/Brownie Shake.jpg',
+        image: '/RUTHS/images/Beverages/Milkshakes/Brownie Shake.jpg',
         category: 'Milkshakes',
         section: 'beverages'
       },
@@ -1500,7 +1500,7 @@ export const beverageCategories = [
         name: 'Biscoff Shake',
         description: 'Biscoff + ice cream + milk.',
         price: 359,
-        image: 'src/images/Beverages/Milkshakes/Biscoff Shake.jpg',
+        image: '/RUTHS/images/Beverages/Milkshakes/Biscoff Shake.jpg',
         category: 'Milkshakes',
         section: 'beverages'
       },
@@ -1509,7 +1509,7 @@ export const beverageCategories = [
         name: 'Berry Biscoff Shake',
         description: 'Berries + Biscoff.',
         price: 369,
-        image: 'src/images/Beverages/Milkshakes/Berry Biscoff Shake.jpg',
+        image: '/RUTHS/images/Beverages/Milkshakes/Berry Biscoff Shake.jpg',
         category: 'Milkshakes',
         section: 'beverages'
       },
@@ -1518,7 +1518,7 @@ export const beverageCategories = [
         name: 'Pina colada',
         description: 'Pineapple juice + coconut milk + ice cream.',
         price: 369,
-        image: 'src/images/Beverages/Milkshakes/Pina colada.jpg',
+        image: '/RUTHS/images/Beverages/Milkshakes/Pina colada.jpg',
         category: 'Milkshakes',
         section: 'beverages'
       },
@@ -1527,7 +1527,7 @@ export const beverageCategories = [
         name: 'Peanut Butter Shake',
         description: 'Peanut butter + milk + ice cream.',
         price: 299,
-        image: 'src/images/Beverages/Milkshakes/Peanut Butter Shake.jpg',
+        image: '/RUTHS/images/Beverages/Milkshakes/Peanut Butter Shake.jpg',
         category: 'Milkshakes',
         section: 'beverages'
       }
@@ -1542,7 +1542,7 @@ export const beverageCategories = [
         name: 'Cucumber Juice',
         description: 'Cooling, light.',
         price: 189,
-        image: 'src/images/Beverages/Fresh Juices/Cucumber Juice.jpg',
+        image: '/RUTHS/images/Beverages/Fresh Juices/Cucumber Juice.jpg',
         category: 'Fresh Juices',
         section: 'beverages'
       },
@@ -1551,7 +1551,7 @@ export const beverageCategories = [
         name: 'Carrot Juice',
         description: 'Vitamin-rich.',
         price: 199,
-        image: 'src/images/Beverages/Fresh Juices/Carrot Juice.jpg',
+        image: '/RUTHS/images/Beverages/Fresh Juices/Carrot Juice.jpg',
         category: 'Fresh Juices',
         section: 'beverages'
       },
@@ -1560,7 +1560,7 @@ export const beverageCategories = [
         name: 'Beetroot Juice',
         description: 'Nutrient-packed.',
         price: 219,
-        image: 'src/images/Beverages/Fresh Juices/Beetroot Juice.jpg',
+        image: '/RUTHS/images/Beverages/Fresh Juices/Beetroot Juice.jpg',
         category: 'Fresh Juices',
         section: 'beverages'
       },
@@ -1569,7 +1569,7 @@ export const beverageCategories = [
         name: 'Sweet Lime',
         description: 'Refreshing & Vitamin C-rich.',
         price: 199,
-        image: 'src/images/Beverages/Fresh Juices/Sweet Lime.jpg',
+        image: '/RUTHS/images/Beverages/Fresh Juices/Sweet Lime.jpg',
         category: 'Fresh Juices',
         section: 'beverages'
       },
@@ -1578,7 +1578,7 @@ export const beverageCategories = [
         name: 'Watermelon',
         description: 'Hyderating, sweet.',
         price: 199,
-        image: 'src/images/Beverages/Fresh Juices/Watermelon.jpg',
+        image: '/RUTHS/images/Beverages/Fresh Juices/Watermelon.jpg',
         category: 'Fresh Juices',
         section: 'beverages'
       },
@@ -1587,7 +1587,7 @@ export const beverageCategories = [
         name: 'ABC Juice',
         description: 'Apple, Beetroot, Carrot.',
         price: 229,
-        image: 'src/images/Beverages/Fresh Juices/ABC Juice.jpg',
+        image: '/RUTHS/images/Beverages/Fresh Juices/ABC Juice.jpg',
         category: 'Fresh Juices',
         section: 'beverages'
       }
