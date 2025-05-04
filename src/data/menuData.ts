@@ -164,7 +164,7 @@ const seafood: MenuItem[] = [
   {
     id: 'sea2',
     name: 'Classic Chicken Sandwich',
-    description: 'A delicious combination of fresh vegetables and melted cheese',
+    description: 'Juicy chicken breast with lettuce and mayo in a toasted bun.',
     price: 289,
     image: 'images/Food/Sandwiches/chickensand.jpg',
     category: 'Seafood',
@@ -173,7 +173,7 @@ const seafood: MenuItem[] = [
   {
     id: 'sea2',
     name: 'Chicken Club Sandwich',
-    description: 'A delicious combination of fresh vegetables and melted cheese',
+    description: 'A hearty sandwich stacked with grilled chicken, cheese, and veggies.',
     price: 299,
     image: 'images/Food/Sandwiches/chickclubsand.jpg',
     category: 'Seafood',
