@@ -1188,7 +1188,7 @@ export const beverageCategories = [
         name: 'Biscoff Cappuccino',
         description: 'Cappuccino + Biscoff.',
         price: 269,
-        image: 'https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg',
+        image: 'images/Beverages/Specialities/biscoff cappuchino.jpg',
         category: 'Specialities',
         section: 'beverages'
       },
@@ -1197,7 +1197,7 @@ export const beverageCategories = [
         name: 'Vietnamese Iced Coffee',
         description: 'Coffee + condensed milk, iced.',
         price: 269,
-        image: 'https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg',
+        image: 'images/Beverages/Specialities/vietnamese Iced Coffee.jpg',
         category: 'Specialities',
         section: 'beverages'
       },
@@ -1206,7 +1206,7 @@ export const beverageCategories = [
         name: 'Biscoff Latte',
         description: 'Milk + Biscoff + espresso.',
         price: 289,
-        image: 'https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg',
+        image: 'images/Beverages/Specialities/biscoff latte.jpg',
         category: 'Specialities',
         section: 'beverages'
       },
@@ -1215,7 +1215,7 @@ export const beverageCategories = [
         name: 'Nutty Cappuccino',
         description: 'Cappuccino + Nutella.',
         price: 289,
-        image: 'https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg',
+        image: 'images/Beverages/Specialities/nutty cappuccino.jpg',
         category: 'Specialities',
         section: 'beverages'
       },
@@ -1224,7 +1224,7 @@ export const beverageCategories = [
         name: 'Nutty Latte',
         description: 'Milk + Nutella + espresso.',
         price: 299,
-        image: 'https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg',
+        image: 'images/Beverages/Specialities/nutty latte.jpg',
         category: 'Specialities',
         section: 'beverages'
       },
@@ -1233,7 +1233,7 @@ export const beverageCategories = [
         name: 'Cold Brew platter(5 Flavours)',
         description: 'Coconut, Cranberry, Autumn brew, Apple Cinnamon, Vanilla.',
         price: 369,
-        image: 'https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg',
+        image: 'images/Beverages/Specialities/cold brew platter.jpg.png',
         category: 'Specialities',
         section: 'beverages'
       },
@@ -1242,7 +1242,7 @@ export const beverageCategories = [
         name: 'Cranberry Espresso',
         description: 'Espresso + cranberry juice.',
         price: 269,
-        image: 'https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg',
+        image: 'images/Beverages/Specialities/canberry espresso.jpg',
         category: 'Specialities',
         section: 'beverages'
       },
@@ -1251,7 +1251,7 @@ export const beverageCategories = [
         name: 'Café Bomb',
         description: 'Espresso + condensed milk + milk foam.',
         price: 229,
-        image: 'https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg',
+        image: 'images/Beverages/Specialities/cafe bomb,jpg.jpg',
         category: 'Specialities',
         section: 'beverages'
       },
@@ -1260,7 +1260,7 @@ export const beverageCategories = [
         name: 'Espresso Tonic',
         description: 'Espresso + Tonic water.',
         price: 269,
-        image: 'https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg',
+        image: 'images/Beverages/Specialities/espresso-tonic.jpg',
         category: 'Specialities',
         section: 'beverages'
       },
@@ -1269,7 +1269,7 @@ export const beverageCategories = [
         name: 'Coffee Beer',
         description: '',
         price: 289,
-        image: 'https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg',
+        image: 'images/Beverages/Specialities/coffee-beer.jpg',
         category: 'Specialities',
         section: 'beverages'
       },
@@ -1278,7 +1278,7 @@ export const beverageCategories = [
         name: 'Hot Chocolate',
         description: 'Cocoa + milk + chocolate.',
         price: 269,
-        image: 'https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg',
+        image: 'images/Beverages/Specialities/hot chocolate.jpg',
         category: 'Specialities',
         section: 'beverages'
       }
